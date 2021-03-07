@@ -17,9 +17,7 @@
 []
 
 
-<a name="Chapter1"></a>
-
-## Chapter 1. The Problem of Delivering Software
+## Chapter 1. The Problem of Delivering Software <a name="Chapter1"></a>
 
 <a name="Chapter2"></a>
 ## Chapter 2. Configuration Management
